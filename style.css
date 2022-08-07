@@ -1,0 +1,32 @@
+/* CSS external dosya */
+.clr {
+    background-color:white; color: black;
+    list-style-position: inside;
+    list-style-image: initial;
+    text-align: center;
+}
+
+.clr-foot {
+    background-color: #7A86B6; 
+    color:#383838 ;
+}
+
+.ts24 {
+font-family: monospace;
+font-size: 24px;
+}
+.ts30 {
+    font-family: monospace;
+    font-size: 20px;
+    }
+
+.ts40 {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+img {
+    width: 350px;
+    border-color:grey;
+    border-style:solid;
+}
